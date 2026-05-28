@@ -1,0 +1,35 @@
+{
+  "name": "ALMA — Asistente de Salud Mental",
+  "short_name": "ALMA",
+  "description": "Tu asistente de bienestar mental en Bolivia. Desarrollado por FERCRI y el Dr. Cristodfer Leal.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e1a",
+  "theme_color": "#C9A84C",
+  "lang": "es",
+  "categories": ["health", "lifestyle", "medical"],
+  "icons": [
+    {
+      "src": "https://i.ibb.co/BHQDFkcs/1000159957.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/BHQDFkcs/1000159957.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://i.ibb.co/BHQDFkcs/1000159957.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    }
+  ]
+}
